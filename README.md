@@ -21,7 +21,7 @@ This repository is optimized for use in an EclipseWorkspace. Specifically it was
   * Version: Kepler Service Release 2
   * Build id: 20140224-0627
 
-The GrammarFiles folder contains three free textfiles we found on the web. Unfortunately, I don't couldn't find the links (sorry). However, they have all been modified with additional words as the original 90K+ nouns and 30K+ verbs wasn't sufficient for some of our, and our professor's, test sentences.
+The GrammarFiles folder contains three free textfiles we found on the web. Unfortunately, I couldn't find the link, sorry. However, they have all been modified with additional words as the original 90K+ nouns and 30K+ verbs weren't sufficient for some of our test sentences.
 
   * **Note:** *If you find the program is erroneously telling you that you are missing a noun or verb please check whether or not the word in question is in either the nouns.txt or verbs.txt files (they are in alphabetical order). If it isn't, insert your word in, save the textfile and re-run the program to see if the error persists.*
 
